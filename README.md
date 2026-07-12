@@ -6,8 +6,9 @@ Elaborado durante o desenvolvimento na Equipe Autoride, que teve como propósito
 
 <br>
 
-![Chassi montado sem componentes na cor bege sob fundo branco](./Imagens%20da%20Montagem/Montagem_finalizada.png)
-<small>Fonte: Próprios autores (2026).</small>
+<p align="center">
+  <img src="./Imagens%20da%20Montagem/Montagem_finalizada.png" alt="Chassi montado sem componentes na cor bege sob fundo branco" width="500">
+</p>
 
 <div align="justify">
 O conceito de robôs segue-faixa é aplicável a situações reais de automação logística como o transporte interno de materiais e componentes em ambientes industriais. É crescente a demanda dos sistemas autônomos, e tal projeto possuiu potencial aprendizado prático e interdisciplinar abrangendo conhecimentos de eletrônica, programação, modelagem estrutural, dentre outros. O chassi foi projetado de acordo com os requisitos e componentes utilizados pela equipe, sobretudo os motores de corrente contínua AK360, em condições de impressão 3D em PLA (ácido poliláctico).
@@ -15,5 +16,5 @@ O conceito de robôs segue-faixa é aplicável a situações reais de automaçã
 
 <br>
 
-![Chassi montado sem componentes na cor bege sob fundo branco](./Imagens%20da%20Montagem/Montagem_final_isometrica.jpeg)
-<small>Fonte: Próprios autores (2026).</small>
+![Chassi montado com componentes na pista seguindo linha - Desenho realizado no CAD.](./Imagens%20da%20Montagem/Montagem_final_isometrica.jpeg)
+<small>Fonte das imagens: Próprios autores (2026).</small>
