@@ -1,7 +1,7 @@
 # Chassi desenvolvido para projeto de robô segue-faixa
 
 <div align="justify">
-Elaborado durante o desenvolvimento na Equipe Autoride, que teve como propósito a produção de um carrinho seguidor de linha, visando demonstrar uma prova de conceito de um veículo autônomo de competição, o chassi para a aplicação foi realizado no software CATIAV5R20, envolvendo noções de modelagem estrutural, desenho técnico mecânico e CAD (Desenho Assistido por Computador). 
+Elaborado durante o desenvolvimento na Equipe Autoride que teve como propósito a produção de um carrinho seguidor de linha, visando demonstrar uma prova de conceito de um veículo autônomo de competição, o chassi para a aplicação foi realizado no software CATIAV5R20, envolvendo noções de modelagem estrutural, desenho técnico mecânico e CAD (Desenho Assistido por Computador). 
 </div>
 
 <br>
@@ -17,4 +17,4 @@ O conceito de robôs segue-faixa é aplicável a situações reais de automaçã
 <br>
 
 ![Chassi montado com componentes na pista seguindo linha - Desenho realizado no CAD.](./Imagens%20da%20Montagem/Montagem_final_isometrica.jpeg)
-<small>Fonte das imagens: Próprios autores (2026).</small>
+<small>Fonte das imagens utilizadas: Próprios autores (2026).</small>
