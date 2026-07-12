@@ -17,4 +17,4 @@ O conceito de robôs segue-faixa é aplicável a situações reais de automaçã
 <br>
 
 ![Chassi montado com componentes na pista seguindo linha - Desenho realizado no CAD.](./Imagens%20da%20Montagem/Montagem_final_isometrica.jpeg)
-<small>Fonte das imagens utilizadas neste texto: Próprios autores (2026).</small>
+<small>Fonte: Próprios autores (2026).</small>
