@@ -21,5 +21,7 @@ O conceito de robôs segue-faixa é aplicável a situações reais de automaçã
 <div align="justify">
 No presente repositório encontram-se tanto os arquivos em CAT.Part como os para impressão 3D (.stl). Também constam para mais detalhes os desenhos técnicos mecânicos. 
 
+<br>
+
 Muito obrigada.
 </div>
